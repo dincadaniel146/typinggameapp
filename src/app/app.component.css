@@ -1,0 +1,20 @@
+.card {
+    margin: 0 auto; 
+    text-align: center;
+}
+.pending{
+    color: gray
+}
+.correct{
+    color: green;
+}
+.incorrect{
+    color: red;
+}
+.card-title{
+    font-family: 'Lobster', cursive;
+}
+span{
+    font-family: 'Rubik', sans-serif;
+
+}
